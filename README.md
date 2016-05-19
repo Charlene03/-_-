@@ -30,4 +30,4 @@
 >負責回應瀏覽器等用戶端之需求
 >功能:DNS就像是一個自動的電話號碼簿，我們可以直接撥打wikipedia的名字來代替電話號碼（IP位址）。DNS在我們直接呼叫網站的名字以後就會將像zh.wikipedia.org一樣便於人類使用的名字轉化成像208.80.154.225一樣便於機器識別的IP位址。
 
-##Ruby 跟 Ruby on Rails 雖然有著相似的名稱，但其實是兩個完全不同的東西。Ruby 是一種描述式語言（Scripting Language），如上述的 Python。Ruby on Rails （也簡稱 Rails）則是用 Ruby 語言寫的網頁開發框架（Web App Framework）。簡單來說，Ruby 是一個語言，Ruby on Rails 則是一個平台，讓開發者能夠更簡單的在上面用 Ruby 進行網頁開發。
+Ruby 跟 Ruby on Rails 雖然有著相似的名稱，但其實是兩個完全不同的東西。Ruby 是一種描述式語言（Scripting Language），如上述的 Python。Ruby on Rails （也簡稱 Rails）則是用 Ruby 語言寫的網頁開發框架（Web App Framework）。簡單來說，Ruby 是一個語言，Ruby on Rails 則是一個平台，讓開發者能夠更簡單的在上面用 Ruby 進行網頁開發。
