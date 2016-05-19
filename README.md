@@ -22,7 +22,7 @@
 ##how does the Internet Work?
 > [圖片連結](https://www.wordsinarow.com/images/GoogleAds.gif)
 
-# What's DNS ?
+## What's DNS ?
 >Domain Name System
 >將網址轉換成IP位置(比如:104.323.342.333)，帶您前往所需的網站。DNS就像是一個自動的電話號碼簿，我們可以直接撥**google**的名字來代替電話號碼（IP位址）。DNS在我們直接呼叫網站的名字(_www.google.com.tw_)一樣便於人類使用的名字轉化成像(208.80.154.225)一樣便於機器識別的IP位址。 
 
